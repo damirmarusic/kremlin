@@ -1,0 +1,12 @@
+
+russia.db
+
+items.json
+
+*.pyc
+
+kremlin/old/old_spider_code.py
+
+kremlin/spiders/president_spider.py
+
+logfile
